@@ -1,0 +1,10 @@
+/Users/dylankawalec/Desktop/Anton_Wallet/target/debug/deps/libsecp256k1_sys-ddafdbac8fc14f1c.rmeta: /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/lib.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/macros.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/types.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/recovery.rs
+
+/Users/dylankawalec/Desktop/Anton_Wallet/target/debug/deps/libsecp256k1_sys-ddafdbac8fc14f1c.rlib: /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/lib.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/macros.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/types.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/recovery.rs
+
+/Users/dylankawalec/Desktop/Anton_Wallet/target/debug/deps/secp256k1_sys-ddafdbac8fc14f1c.d: /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/lib.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/macros.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/types.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/recovery.rs
+
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/lib.rs:
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/macros.rs:
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/types.rs:
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.8.1/src/recovery.rs:

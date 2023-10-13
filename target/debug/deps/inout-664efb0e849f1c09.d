@@ -1,0 +1,11 @@
+/Users/dylankawalec/Desktop/Anton_Wallet/target/debug/deps/libinout-664efb0e849f1c09.rmeta: /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/lib.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/errors.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout_buf.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/reserved.rs
+
+/Users/dylankawalec/Desktop/Anton_Wallet/target/debug/deps/libinout-664efb0e849f1c09.rlib: /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/lib.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/errors.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout_buf.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/reserved.rs
+
+/Users/dylankawalec/Desktop/Anton_Wallet/target/debug/deps/inout-664efb0e849f1c09.d: /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/lib.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/errors.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout_buf.rs /Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/reserved.rs
+
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/lib.rs:
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/errors.rs:
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout.rs:
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout_buf.rs:
+/Users/dylankawalec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/reserved.rs:
